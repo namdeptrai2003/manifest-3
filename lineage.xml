@@ -21,7 +21,6 @@
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/qcom/audio"/>
   <remove-project name="platform/hardware/qcom/bt"/>
-  <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/qcom/display" />
   <remove-project name="platform/hardware/qcom/gps" />
   <remove-project name="platform/hardware/qcom/media" />
@@ -76,7 +75,6 @@
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="lineage" />
   <project name="android_hardware_qcom_bt" path="hardware/qcom/bt" remote="lineage" />
   <project name="android_hardware_qcom_bt" path="hardware/qcom/bt-caf" revision="cm-14.1-caf" remote="lineage" />
-  <project name="android_hardware_qcom_camera" path="hardware/qcom/camera" remote="lineage" />
   <project name="android_hardware_qcom_display" path="hardware/qcom/display" remote="lineage" />
   <project name="android_hardware_qcom_display" path="hardware/qcom/display-caf/apq8084" groups="pdk,qcom,qcom_display" remote="lineage" revision="cm-14.1-caf-8084" />
   <project name="android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" groups="pdk,qcom,qcom_display" remote="lineage" revision="cm-14.1-caf-8916" />
