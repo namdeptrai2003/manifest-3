@@ -17,7 +17,6 @@
   <remove-project name="platform/external/toybox" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zlib" />
-  <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/qcom/audio"/>
   <remove-project name="platform/hardware/qcom/bt"/>
@@ -48,7 +47,6 @@
   <project name="android_external_e2fsprogs" path="external/e2fsprogs" remote="lineage" />
   <project name="android_external_exfat" path="external/exfat" remote="lineage" />
   <project name="android_external_f2fs-tools" path="external/f2fs-tools" remote="lineage" />
-  <project name="android_external_ffmpeg" path="external/ffmpeg" remote="lineage" />
   <project name="android_external_fsck_msdos" path="external/fsck_msdos" remote="lineage" />
   <project name="android_external_fuse" path="external/fuse" remote="lineage" />
   <project name="android_external_jemalloc" path="external/jemalloc" remote="lineage" />
@@ -57,13 +55,11 @@
   <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="lineage" />
   <project name="android_external_okhttp" path="external/okhttp" remote="lineage" />
   <project name="android_external_skia" path="external/skia" remote="lineage" />
-  <project name="android_external_stagefright-plugins" path="external/stagefright-plugins" remote="lineage" />
   <project name="android_external_tinyalsa" path="external/tinyalsa" remote="lineage" />
   <project name="android_external_tinycompress" path="external/tinycompress" remote="lineage" />
   <project name="android_external_toybox" path="external/toybox" remote="lineage" />
   <project name="android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="lineage" />
   <project name="android_external_zlib" path="external/zlib" remote="lineage" />
-  <project name="android_frameworks_av" path="frameworks/av" remote="lineage" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" groups="qcom,qcom_audio" remote="lineage" revision="cm-14.1-caf-8084" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" groups="qcom,qcom_audio" remote="lineage" revision="cm-14.1-caf-8916" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" groups="qcom,qcom_audio" remote="lineage" revision="cm-14.1-caf-8937" />

@@ -25,6 +25,7 @@
   <remove-project name="platform/abi/cpp" />
   <remove-project name="platform/art" />
   <remove-project name="platform/build" />
+  <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/net/wifi" />
@@ -72,6 +73,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project name="android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="vertex" />
+  <project name="android_frameworks_av" path="frameworks/av" remote="vertex" />
   <project name="android_frameworks_base" path="frameworks/base" remote="vertex" />
   <project name="android_frameworks_native" path="frameworks/native" remote="vertex" />
   <project name="android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" remote="vertex" />
