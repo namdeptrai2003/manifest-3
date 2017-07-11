@@ -37,6 +37,7 @@
   <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/FMRadio" />
   <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/PhoneCommon" />
   <remove-project name="platform/packages/apps/Settings" />
@@ -110,6 +111,9 @@
   <!-- BEGIN SUBSTRATUM -->
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
   <!-- ENG SUBSTRATUM -->
+
+  <!-- BEGIN LATINIME -->
+  <project name="AOSPA/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="nougat-mr2" />
 
   <!-- LineageOS additions -->
   <include name="lineage.xml" />
