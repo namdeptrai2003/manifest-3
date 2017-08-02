@@ -20,7 +20,7 @@
            fetch="https://github.com/VertexOS"
            revision="n" />
 
-  <default revision="refs/tags/LA.UM.5.8.r1-02200-8x98.0"
+  <default revision="refs/tags/LA.UM.5.8.r1-02400-8x98.0"
            remote="caf"
            sync-j="8"
            sync-c="true"/>
