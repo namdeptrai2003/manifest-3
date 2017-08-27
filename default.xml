@@ -98,7 +98,7 @@
   <project groups="pdk" name="platform/external/ceres-solver" path="external/ceres-solver" />
   <project groups="pdk" name="platform/external/chromium-libpac" path="external/chromium-libpac" />
   <project groups="pdk" name="platform/external/chromium-trace" path="external/chromium-trace" />
-  <project groups="pdk" name="platform/external/chromium-webview" path="external/chromium-webview" />
+  <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
   <project groups="pdk" name="platform/external/clang" path="external/clang" />
   <project groups="pdk" name="platform/external/cmockery" path="external/cmockery" />
   <project groups="pdk" name="platform/external/compiler-rt" path="external/compiler-rt" />
